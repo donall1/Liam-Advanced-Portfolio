@@ -111,7 +111,7 @@
 	}
 	
 	#hero-bg-image {
-		background-size:cover;
+		background-size: cover;
 		position:absolute;
 		background-position:center center;
 		width:100%;
